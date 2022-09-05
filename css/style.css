@@ -1,0 +1,52 @@
+*{
+    margin:0 ;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+header{
+    background-color: blueviolet;
+    width: 100%;
+    float: left;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.navigation-part{
+    width: 100%;
+   float: left;}
+   .hero-part{
+    width: 100%;
+    float: left;
+   }
+
+.logo-part{
+    width: 50%;
+    float: left;
+    background-color: brown;
+}
+.menu-part{
+    width: 50%;
+    float: left;
+    background-color: aqua;
+}
+#service{
+    background-color: rgb(24, 76, 76);
+    float: left;
+    width: 100%;
+}
+.service-writing-part{
+    width: 100%;
+    float: left;
+}
+.service-box-part{
+    width: 100%;
+    float: left;
+}
+.service-box{
+width: 25%;
+float: left;
+}
+
